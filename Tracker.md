@@ -14,6 +14,8 @@ NLP algorithms; this is needed because we have human interactions and inputs. FI
 
 
 TODO:
+
+
   Frontend(should not take long, but includes some deep learning programming):
 
 
@@ -67,3 +69,13 @@ Backend(this is the hard part, this should take the longest since it involves th
 
 
 Project may take several months. We are using github just as a way to track progress on both ends of the project. 
+
+
+
+Libs we are using:
+
+
+http://dlib.net/ This is used in our program.
+
+
+https://github.com/opencv/opencv/ facial recog with our own algo
