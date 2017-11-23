@@ -2,8 +2,10 @@ Although this is not an open source project :). We are just keeping track of our
 
 
 
-1st Check Point 
-Finished:
+1st Check Point Goals: 
+
+
+What we Have Finished:
 Speech Output
 
 
@@ -13,8 +15,7 @@ NLP algorithms; this is needed because we have human interactions and inputs. FI
 
 
 
-TODO:
-
+What we Still Have to Do:
 
   Frontend(should not take long, but includes some deep learning programming):
 
