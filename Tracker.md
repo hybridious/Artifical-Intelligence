@@ -9,9 +9,18 @@ Speech Output
 
 NLP algorithms; this is needed because we have human interactions and inputs. FINISHED
 
+
+
+
+
 TODO:
   Frontend(should not take long, but includes some deep learning programming):
-      - Speech-to-text code; takes speech input and converts it to text. Includes natural language processing. This is the first step to          converting human-omitted information for the machine to understand. More work will need to be done on the neural network part of          this to get it working. (NOT DONE)
+
+
+
+- Speech-to-text code; takes speech input and converts it to text. Includes natural language processing. This is the first step to          converting human-omitted information for the machine to understand. More work will need to be done on the neural network part of          this to get it working. (NOT DONE)
+
+
 
 
 
@@ -19,10 +28,17 @@ TODO:
 
 
 
+
+
  - UI; not very important at the start, but the bot does need a user interface. (NOT DONE)
 
 
+
+
+
 - Data parser; before data is to be passed through the linear regression algorithm it needs to be parsed for effiency and quickness.        (NOT DONE)
+
+
 
 
 
