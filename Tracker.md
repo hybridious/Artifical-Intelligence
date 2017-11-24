@@ -10,6 +10,7 @@ Speech Output
 
 twitter.com/0xret2plt has finished this
 
+
 NLP algorithms; this is needed because we have human interactions and inputs. FINISHED
 
 twitter.com/0xret2plt  has finished this
@@ -19,13 +20,19 @@ twitter.com/0xret2plt  has finished this
 
 What we Still Have to Do:
 
+
   Frontend(should not take long, but includes some deep learning programming):
 
+
+- Facial Recognition; Uses OpenCV with dlib to detect common facial expressions, detect mood based on several factors. (not done)
+
+twitter.com/0xret2plt will do this, deadline nov 24 2017
 
 
 - Speech-to-text code; takes speech input and converts it to text. Includes natural language processing. This is the first step to          converting human-omitted information for the machine to understand. More work will need to be done on the neural network part of          this to get it working. (NOT DONE)
 
-twitter.com/0xret2plt will do this, deadline nov 30 2017
+twitter.com/0xret2plt will do this, deadline pushed further
+- This might take a bit longer, over estimated this a little bit.
 
 
 
