@@ -18,26 +18,28 @@ twitter.com/0xret2plt  has finished this
 
 
 
+- Facial Recognition; Uses OpenCV with dlib to detect common facial expressions, detect mood based on several factors. FINISHED
+
+twitter.com/0xret2plt has finished this
+
+
+
+
 What we Still Have to Do:
 
 
   Frontend(should not take long, but includes some deep learning programming):
 
 
-- Facial Recognition; Uses OpenCV with dlib to detect common facial expressions, detect mood based on several factors. (not done)
-
-twitter.com/0xret2plt will do this, deadline nov 24 2017
-
 
 - Speech-to-text code; takes speech input and converts it to text. Includes natural language processing. This is the first step to          converting human-omitted information for the machine to understand. More work will need to be done on the neural network part of          this to get it working. (NOT DONE)
 
-twitter.com/0xret2plt will do this, deadline pushed further
-- This might take a bit longer, over estimated this a little bit.
+twitter.com/skidematician will do this, deadline: nov 
 
 
 
 - Linear regression algorithm; that will interpert the data from the inputs and find the common trends that will help with further          analysis of data and, eventually, the neural network. (NOT DONE)
-twitter.com/skidematician will do this, deadline: nov 26 2017
+twitter.com/skidematician will do this, deadline: Dec 4th 2017
 
 
 
@@ -45,6 +47,8 @@ twitter.com/skidematician will do this, deadline: nov 26 2017
 
  - UI; not very important at the start, but the bot does need a user interface. (NOT DONE)
 
+
+twitter.com/0xret2plt will do this, deadline: nov 30 2017
 
 
 
@@ -71,7 +75,9 @@ Backend(this is the hard part, this should take the longest since it involves th
 
 
 
-- API; this is probably never going to happen, if it becomes big, maybe a watson-like API.
+- API; NOT DONE
+
+twitter.com/0xret2plt will do this, deadline: nov 30 2017
 
 
 1obviously, this will use many machine learning algorithms, because of the amount of variables we have       we will use reinforcement learning. To do that we have to keep training the models. This is linked to the DB and will be done after      it. (NOT DONE)
