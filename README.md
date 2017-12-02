@@ -6,6 +6,9 @@ Although this is not an open source project :). We are just keeping track of our
 
 
 What we Have Finished:
+
+
+
 Speech Output
 
 twitter.com/0xret2plt has finished this
@@ -15,12 +18,26 @@ NLP algorithms; this is needed because we have human interactions and inputs. FI
 
 twitter.com/0xret2plt  has finished this
 
+- API; NOT DONE
+
+twitter.com/0xret2plt Has finished this
 
 
 
-- Facial Recognition; Uses OpenCV with dlib to detect common facial expressions, detect mood based on several factors. FINISHED
+- Facial Recognition; Uses dlib to detect common facial expressions, detect mood, all based on several factors. FINISHED
 
 twitter.com/0xret2plt has finished this
+
+
+
+
+ - UI; not very important at the start, but the bot does need a user interface. (NOT DONE)
+
+
+twitter.com/0xret2plt has finshed this
+
+
+
 
 
 
@@ -45,10 +62,6 @@ twitter.com/skidematician will do this, deadline: Dec 4th 2017
 
 
 
- - UI; not very important at the start, but the bot does need a user interface. (NOT DONE)
-
-
-twitter.com/0xret2plt will do this, deadline: nov 30 2017
 
 
 
@@ -75,9 +88,6 @@ Backend(this is the hard part, this should take the longest since it involves th
 
 
 
-- API; NOT DONE
-
-twitter.com/0xret2plt will do this, deadline: nov 30 2017
 
 
 1obviously, this will use many machine learning algorithms, because of the amount of variables we have       we will use reinforcement learning. To do that we have to keep training the models. This is linked to the DB and will be done after      it. (NOT DONE)
@@ -91,7 +101,4 @@ Project may take several months. We are using github just as a way to track prog
 Libs we are using:
 
 
-http://dlib.net/ This is used in our program.
-
-
-https://github.com/opencv/opencv/ facial recog with our own algo
+http://dlib.net/ This is used in our program. 
