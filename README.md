@@ -31,7 +31,7 @@ twitter.com/0xret2plt has finished this
 
 
 
- - UI; not very important at the start, but the bot does need a user interface. (NOT DONE)
+ - UI; not very important at the start, but the bot does need a user interface. 
 
 
 twitter.com/0xret2plt has finshed this
@@ -39,6 +39,9 @@ twitter.com/0xret2plt has finshed this
 
 
 
+
+- Linear regression algorithm; that will interpert the data from the inputs and find the common trends that will help with further          analysis of data and, eventually, the neural network. 
+twitter.com/skidematician has finished this
 
 
 
@@ -54,9 +57,6 @@ What we Still Have to Do:
 twitter.com/skidematician will do this, deadline: nov 
 
 
-
-- Linear regression algorithm; that will interpert the data from the inputs and find the common trends that will help with further          analysis of data and, eventually, the neural network. (NOT DONE)
-twitter.com/skidematician will do this, deadline: Dec 4th 2017
 
 
 
@@ -82,6 +82,7 @@ Backend(this is the hard part, this should take the longest since it involves th
 
 - Neural network; this comprises of many things, but we are researching and making sure we have all the frontend done and ready           before moving on to this. (NOT DONE)
 
+twitter.com/skidematician will do this, deadline: December 9th 2017
 
 
 - Database; eventually, we will have to store some inputs that help with teaching the algorithm. This is probably going to happen         after everything else is done. (NOT DONE)
